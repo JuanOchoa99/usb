@@ -22,6 +22,9 @@ System.out.println("HOLA");
 
 
 System.out.println("Prueba 2");
+
+System.out.println("Prueba 2");
+
     }
     
 }
