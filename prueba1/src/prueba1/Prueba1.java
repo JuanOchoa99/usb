@@ -18,6 +18,10 @@ public class Prueba1 {
    
 System.out.println("HOLA MUNDO");
 System.out.println("HOLA");
+
+
+
+System.out.println("Prueba 2");
     }
     
 }
